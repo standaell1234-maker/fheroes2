@@ -1,4 +1,4 @@
-# fheroes2
+e3e6b06bda999c6f2b8085f28c6cc198635db3a1# fheroes2
 
 **fheroes2** is a recreation of the Heroes of Might and Magic II game engine.
 
